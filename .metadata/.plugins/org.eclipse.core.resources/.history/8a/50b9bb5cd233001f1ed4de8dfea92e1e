@@ -1,0 +1,22 @@
+package com.JDBC.Select;
+
+import java.sql.DriverManager;
+
+public class SelectDemo1 {
+	
+	public static void main(String[] args) {
+		
+	try {
+		
+		Class.forName("com.mysql.cj.jdbc.Driver");
+		System.out.println("Hello");
+		DriverManager.getConnection("jdbc:mysql://localhost:3306/jdbc_db", "root", "root");
+		
+	} 
+	catch (ClassNotFoundException e) {
+		// TODO Auto-generated catch block
+		e.printStackTrace();
+	}
+	}
+
+}

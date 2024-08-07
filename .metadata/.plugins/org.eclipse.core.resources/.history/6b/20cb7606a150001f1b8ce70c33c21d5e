@@ -1,0 +1,10 @@
+package com.springboot.studentmanagement.repository;
+
+import com.springboot.studentmanagement.pojo.StudentPOJO;
+
+public interface StudentRepository {
+
+	
+	
+
+}

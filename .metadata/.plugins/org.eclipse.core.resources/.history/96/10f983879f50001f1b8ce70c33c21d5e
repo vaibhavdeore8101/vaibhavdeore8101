@@ -1,0 +1,12 @@
+package com.springboot.studentmanagement.service;
+
+import com.springboot.studentmanagement.pojo.StudentPOJO;
+
+public class StudentService {
+
+	public StudentPOJO addStudent(StudentPOJO pojo) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

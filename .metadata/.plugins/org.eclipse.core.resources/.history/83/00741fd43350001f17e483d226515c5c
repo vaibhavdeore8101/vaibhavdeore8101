@@ -1,0 +1,5 @@
+package com.springboot.studentmanagement.controller;
+
+public class StudentController {
+
+}

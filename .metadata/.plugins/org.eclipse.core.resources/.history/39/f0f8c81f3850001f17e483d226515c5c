@@ -1,0 +1,5 @@
+package com.springboot.studentmanagement.exception;
+
+public class InvalidEmailException extends Exception {
+
+}

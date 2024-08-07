@@ -1,0 +1,11 @@
+package com.designpatterns.creational;
+
+public class GreenTea implements Beverage {
+
+	@Override
+	public void order() {
+		// TODO Auto-generated method stub
+
+	}
+
+}

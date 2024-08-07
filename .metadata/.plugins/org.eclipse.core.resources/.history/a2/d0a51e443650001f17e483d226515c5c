@@ -1,0 +1,16 @@
+package com.springboot.studentmanagement.controller;
+
+import org.springframework.web.bind.annotation.PostMapping;
+import org.springframework.web.bind.annotation.RestController;
+
+import com.springboot.studentmanagement.pojo.StudentPOJO;
+
+@RestController
+public class StudentController {
+	
+	@PostMapping("/add")
+	public String addStudent(StudentPOJO pojo) {
+		return "Student Added";
+	}
+
+}

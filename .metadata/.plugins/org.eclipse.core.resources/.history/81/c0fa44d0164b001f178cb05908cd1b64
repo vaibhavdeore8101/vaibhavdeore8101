@@ -1,0 +1,23 @@
+package com.springrest.controller;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.web.bind.annotation.PostMapping;
+import org.springframework.web.bind.annotation.RequestBody;
+import org.springframework.web.bind.annotation.RestController;
+
+import com.springrest.POJO.AdminPOJO;
+import com.springrest.service.AdminService;
+
+@RestController
+public class AdminController {
+	
+	@Autowired
+	private AdminService service;
+	
+	@PostMapping("/CreateAccount")
+	public void CreateAccount(@RequestBody AdminPOJO pojo) {
+		AdminPOJO admin=service.CreateAccount(pojo);
+		System.out.println("Acconut created");
+	}
+
+}
