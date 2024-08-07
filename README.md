@@ -8,7 +8,7 @@ DSA
 
 🚀 Projects
 
-ATTENDANCE MANAGEMENT: Introducing our Attendance Management Application: Seamlessly organize and access all your contacts in one place! Effortlessly store, update, and retrieve contact information with intuitive features and a user-friendly interface. Simplify your communication and stay connected with ease. Try it now for streamlined Attendance management! 📞✨.
+ATTENDANCE MANAGEMENT: Introducing our Attendance Management Application: Seamlessly organize and access all your students in one place! Effortlessly store, update, and retrieve student information with intuitive features and a user-friendly interface. Simplify your communication and stay connected with ease. Try it now for streamlined Attendance management! 📞✨.
 
 STUDENT MANAGEMENT: Introducing our Student Management Application: Your all-in-one solution for effortless student data management. With simple CRUD operations (Create, Read, Update, Delete), this application allows you to efficiently add, view, edit, and remove student records. 🎓💻
 
