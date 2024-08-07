@@ -1,7 +1,0 @@
-package com.adv_java.servlet;
-
-import javax.servlet.GenericServlet;
-
-public class MyServlet2 extends GenericServlet{
-
-}

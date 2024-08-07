@@ -1,9 +1,0 @@
-package com.adv_java.servlet;
-
-import javax.servlet.http.HttpServlet;
-
-public class MyServlet2 extends HttpServlet{
-	
-	
-
-}
